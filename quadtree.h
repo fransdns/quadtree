@@ -4,8 +4,14 @@
 #include <vector>
 
 struct Point {
-    double x, y;
+    double x;
+    double y;
+    bool isClicked; // Nuevo miembro para indicar si ha sido clickeado
+
+    // Constructor con inicialización
+    Point(double x, double y, bool isClicked = false) : x(x), y(y), isClicked(isClicked) {}
 };
+
 
 class QuadTree {
 public:

@@ -389,11 +389,11 @@ C:/Users/reckl/Desktop/algoritmos-proyecto/qt-c++/proyecto-algoritmos/mainwindow
  mdp:C:/Users/reckl/Desktop/algoritmos-proyecto/qt-c++/proyecto-algoritmos/mainwindow.h
  mdp:C:/Users/reckl/Desktop/algoritmos-proyecto/qt-c++/proyecto-algoritmos/quadtree.h
 C:/Users/reckl/Desktop/algoritmos-proyecto/qt-c++/proyecto-algoritmos/main.cpp
-C:/Users/reckl/Desktop/algoritmos-proyecto/qt-c++/proyecto-algoritmos/point.h
 C:/Users/reckl/Desktop/algoritmos-proyecto/qt-c++/proyecto-algoritmos/mainwindow.cpp
  uic:ui_mainwindow.h
-C:/Users/reckl/Desktop/algoritmos-proyecto/qt-c++/proyecto-algoritmos/mywidget.cpp
+C:/Users/reckl/Desktop/algoritmos-proyecto/qt-c++/proyecto-algoritmos/point.h
 C:/Users/reckl/Desktop/algoritmos-proyecto/qt-c++/proyecto-algoritmos/quadtree.h
-C:/Users/reckl/Desktop/algoritmos-proyecto/qt-c++/proyecto-algoritmos/mywidget.h
+C:/Users/reckl/Desktop/algoritmos-proyecto/qt-c++/proyecto-algoritmos/mywidget.cpp
 C:/Users/reckl/Desktop/algoritmos-proyecto/qt-c++/proyecto-algoritmos/quadtree.cpp
+C:/Users/reckl/Desktop/algoritmos-proyecto/qt-c++/proyecto-algoritmos/mywidget.h
 C:/Users/reckl/Desktop/algoritmos-proyecto/qt-c++/proyecto-algoritmos/point.cpp
