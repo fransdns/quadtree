@@ -14,15 +14,19 @@ find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Widgets)
 
 set(PROJECT_SOURCES
         main.cpp
-        mainwindow.cpp
-        mainwindow.h
-        mainwindow.ui
+
+
+
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
     qt_add_executable(proyecto-algoritmos
         MANUAL_FINALIZATION
         ${PROJECT_SOURCES}
+        mywidget.h mywidget.cpp
+        quadtree.h quadtree.cpp
+        point.h point.cpp
+
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET proyecto-algoritmos APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR

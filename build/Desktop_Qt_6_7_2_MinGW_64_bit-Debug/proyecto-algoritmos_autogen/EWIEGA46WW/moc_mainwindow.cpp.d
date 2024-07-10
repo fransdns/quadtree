@@ -2,6 +2,7 @@ C:/Users/reckl/Desktop/algoritmos-proyecto/qt-c++/proyecto-algoritmos/build/Desk
   C:/Users/reckl/Desktop/algoritmos-proyecto/qt-c++/proyecto-algoritmos/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/proyecto-algoritmos_autogen/moc_predefs.h \
   C:/Qt/6.7.2/mingw_64/include/QtCore/QList \
   C:/Qt/6.7.2/mingw_64/include/QtCore/QObject \
+  C:/Qt/6.7.2/mingw_64/include/QtCore/QPoint \
   C:/Qt/6.7.2/mingw_64/include/QtCore/QRect \
   C:/Qt/6.7.2/mingw_64/include/QtCore/QSize \
   C:/Qt/6.7.2/mingw_64/include/QtCore/QSizeF \
@@ -382,4 +383,5 @@ C:/Users/reckl/Desktop/algoritmos-proyecto/qt-c++/proyecto-algoritmos/build/Desk
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/sys/types.h \
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/time.h \
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/vadefs.h \
-  C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h
+  C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h \
+  C:/Users/reckl/Desktop/algoritmos-proyecto/qt-c++/proyecto-algoritmos/quadtree.h

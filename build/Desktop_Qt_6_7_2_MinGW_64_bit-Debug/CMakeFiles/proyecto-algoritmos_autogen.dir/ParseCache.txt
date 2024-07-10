@@ -3,6 +3,7 @@ C:/Users/reckl/Desktop/algoritmos-proyecto/qt-c++/proyecto-algoritmos/mainwindow
  mmc:Q_OBJECT
  mdp:C:/Qt/6.7.2/mingw_64/include/QtCore/QList
  mdp:C:/Qt/6.7.2/mingw_64/include/QtCore/QObject
+ mdp:C:/Qt/6.7.2/mingw_64/include/QtCore/QPoint
  mdp:C:/Qt/6.7.2/mingw_64/include/QtCore/QRect
  mdp:C:/Qt/6.7.2/mingw_64/include/QtCore/QSize
  mdp:C:/Qt/6.7.2/mingw_64/include/QtCore/QSizeF
@@ -386,6 +387,13 @@ C:/Users/reckl/Desktop/algoritmos-proyecto/qt-c++/proyecto-algoritmos/mainwindow
  mdp:C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h
  mdp:C:/Users/reckl/Desktop/algoritmos-proyecto/qt-c++/proyecto-algoritmos/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/proyecto-algoritmos_autogen/moc_predefs.h
  mdp:C:/Users/reckl/Desktop/algoritmos-proyecto/qt-c++/proyecto-algoritmos/mainwindow.h
+ mdp:C:/Users/reckl/Desktop/algoritmos-proyecto/qt-c++/proyecto-algoritmos/quadtree.h
 C:/Users/reckl/Desktop/algoritmos-proyecto/qt-c++/proyecto-algoritmos/main.cpp
+C:/Users/reckl/Desktop/algoritmos-proyecto/qt-c++/proyecto-algoritmos/point.h
 C:/Users/reckl/Desktop/algoritmos-proyecto/qt-c++/proyecto-algoritmos/mainwindow.cpp
  uic:ui_mainwindow.h
+C:/Users/reckl/Desktop/algoritmos-proyecto/qt-c++/proyecto-algoritmos/mywidget.cpp
+C:/Users/reckl/Desktop/algoritmos-proyecto/qt-c++/proyecto-algoritmos/quadtree.h
+C:/Users/reckl/Desktop/algoritmos-proyecto/qt-c++/proyecto-algoritmos/mywidget.h
+C:/Users/reckl/Desktop/algoritmos-proyecto/qt-c++/proyecto-algoritmos/quadtree.cpp
+C:/Users/reckl/Desktop/algoritmos-proyecto/qt-c++/proyecto-algoritmos/point.cpp
