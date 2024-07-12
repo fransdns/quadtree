@@ -3,9 +3,12 @@
 
 #include <QWidget>
 #include <QMouseEvent>
+#include <QResizeEvent>
 #include "QuadTree.h"
 
 class MyWidget : public QWidget {
+    Q_OBJECT
+
     QuadTree quadTree;
 
 public:
@@ -14,6 +17,7 @@ public:
 protected:
     void mousePressEvent(QMouseEvent *event) override;
     void paintEvent(QPaintEvent *event) override;
+    void resizeEvent(QResizeEvent *event) override; // Declaración del método resizeEvent
 
 private:
     void drawQuadTree(QPainter &painter, const QuadTree &qt);
@@ -21,3 +25,4 @@ private:
 };
 
 #endif // MYWIDGET_H
+

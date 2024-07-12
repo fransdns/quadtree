@@ -16,6 +16,12 @@ void MyWidget::paintEvent(QPaintEvent *event) {
     drawQuadTree(painter, quadTree);
 }
 
+void MyWidget::resizeEvent(QResizeEvent *event) {
+    QWidget::resizeEvent(event);
+    quadTree = QuadTree({0, 0}, {width(), height()}); // Redimensionar el QuadTree
+    update(); // Trigger a repaint to reflect the new size
+}
+
 void MyWidget::drawQuadTree(QPainter &painter, const QuadTree &qt) {
     drawNode(painter, qt.getRoot());
 }
